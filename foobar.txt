@@ -1,0 +1,1 @@
+this is a file in the main build tree, independant of the subdir stuff
